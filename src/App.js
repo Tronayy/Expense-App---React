@@ -1,4 +1,4 @@
-import MakeExpenseItems from "./components/MakeExpenseItems";
+import Expense from "./components/Expense";
 
 function App() {
   const expenses = [
@@ -26,7 +26,7 @@ function App() {
   return (
     <div>
       <h2>Let's get started!</h2>
-      <MakeExpenseItems expenses={expenses} />
+      <Expense expenses={expenses} />
     </div>
   );
 }

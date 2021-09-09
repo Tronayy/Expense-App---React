@@ -1,5 +1,5 @@
 # ReactApp1
-My first react app.
+My first react app. It loads default expense information and collects additional details from the user. It shows a graphical view of the expenses done based on the year and the month.
 
 ## How to run?
 

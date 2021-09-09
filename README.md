@@ -1,5 +1,9 @@
 # ReactApp1
 My first react app.
-Following the instructions of Maximillian in his course "React - The Complete Guide" on Udemy.
-It runs with npm start on vscode terminal after installing all the node modules using npm install.
-The app runs on localhost:3000 which automatically starts on npm start command.
+
+## How to run?
+
+The app can be run by:
+1. Download the zip file and unzip it.
+2. Run `npm install` in the main directory to install the node modules.
+3. Run `npm start` to start the app on http://localhost:3000
